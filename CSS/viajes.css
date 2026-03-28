@@ -1,0 +1,21 @@
+/* Documento CSS */
+
+body{ background-color: rgb(211, 214, 232); }
+
+h1{ text-align: center;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+background-color: aliceblue; }
+
+h2{ font-family: 'Times New Roman', Times, serif;
+text-align: center; }
+
+.lugares p{ font-family: Georgia, 'Times New Roman', Times, serif;text-align: center; }
+
+.lugares img{ width: 100%; }
+.lugares  { width: 70%;
+margin: auto; }
+
+footer{ background-color: white;
+    text-align: center;
+    padding: 10px 10px;
+     }

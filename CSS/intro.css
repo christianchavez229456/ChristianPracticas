@@ -1,0 +1,49 @@
+/* Documento CSS */
+
+* { margin: 0%; }
+
+body { background-color: rgb(129, 125, 125); }
+
+h1 { text-align: center; 
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color:rgb(0, 0, 0);
+    background: rgb(255, 255, 255);
+    text-transform: uppercase;
+    margin-bottom: 16px;
+    padding: 16px 0px;}
+    
+    h2, h4, h6 {  color: rgb(68, 61, 61);  }
+
+    h3, h5 {  color: rgb(239, 239, 243);  }
+
+    h6 {  text-transform: uppercase;  }
+
+    h2, h3, h4, h5, h6 { padding: 8px 16px }
+
+div p { padding: 8px 16px; 
+        line-height: 140%;
+        font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+        color:white;
+        font-size: 1.4em;}
+    
+div img { width: 450px; 
+          margin: 8px auto; 
+          display: block;
+         }
+         
+div blockquote { width: 400px;
+                 margin: 16px auto;
+                 font-size: 2em;
+                 color: white;
+                 border-left: 4px solid white;
+                 padding-left: 16px;
+                 background-image: url(../IMG/04lplhjljf03iobb2mhevv3921-821da8bf988f9d969e495a3f0bdbe78f.png);
+                 background-size: 100px 100px;
+                 background-repeat: no-repeat;
+                 background-position: bottom right; }
+
+footer p { text-align: center;
+           background: white;
+           padding: 8px 0px;
+           color: rgb(0, 0, 0);
+           font-size:  2ex; }
